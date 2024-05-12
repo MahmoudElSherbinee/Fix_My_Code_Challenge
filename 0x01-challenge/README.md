@@ -1,2 +1,1 @@
-This README file is for 0x01-challenge project.
-
+This README file is for fix my code challenge v2.
